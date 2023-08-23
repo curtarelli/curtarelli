@@ -22,9 +22,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=qaa_kdpy_final&show_owner=true&theme=aura)](https://github.com/curtarelli/qaa_kdpy_final)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=awesome-spectral-indices&show_owner=true&theme=aura)](https://github.com/curtarelli/awesome-spectral-indices)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=awesome-spectral-indices&show_owner=true&theme=aura)](https://github.com/curtarelli/awesome-spectral-indices) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=hydrobr&show_owner=true&theme=aura)](https://github.com/curtarelli/hydrobr)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=hydrobr&show_owner=true&theme=aura)](https://github.com/curtarelli/hydrobr) -->
 
 ##
 <h3>GitHub Status</h3>
