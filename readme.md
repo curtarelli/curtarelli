@@ -16,7 +16,7 @@
 </ul>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github$hide_rank=true)](https://github.com/curtarelli/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=true)](https://github.com/curtarelli/github-readme-stats)
 
 ##
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorcurtarelli/)
