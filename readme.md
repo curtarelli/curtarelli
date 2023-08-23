@@ -29,9 +29,9 @@
 ##
 <h3>GitHub Status</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&hide_title=true&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=false)](https://github.com/curtarelli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtarelli&langs_count=8&theme=aura)](https://github.com/curtarelli/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtarelli&langs_count=8)](https://github.com/curtarelli/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&hide_title=true&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=false)](https://github.com/curtarelli/github-readme-stats)
 
 ##
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorcurtarelli/)
