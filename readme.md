@@ -11,13 +11,12 @@
   
 
 <h3>Portfolio Python</h3>
-<li><em><a href="https://github.com/curtarelli/portfolio-python">Acess</a></em><br /></li>
+<li><em><a href="https://github.com/curtarelli/portfolio-python">Access</a></em><br /></li>
 
 </ul>
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli)](https://github.com/curtarelli/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=[curtarelli]
 
 ##
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorcurtarelli/)
