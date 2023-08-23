@@ -7,18 +7,23 @@
 <li><em>Geographic Information Systems Development Analyst at <a href="https://opt.com.br/">OPT</a></em> (August 2020 – September 2022).<br /></li>
 <li><em>Technological Researcher Development Scholarship at <a href="http://www.inpe.br/posgraduacao/">National Institute for Space Research</a></em> (March 2018 – June 2020).<br /></li>
 </ul>
+
+
 <h3>Portfolio</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-python&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-js&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-js)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=sits-giz&show_owner=true&theme=aura)](https://github.com/curtarelli/sits-giz) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=cutting_scenes&show_owner=true&theme=aura)](https://github.com/curtarelli/cutting_scenes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=qaa_kdpy_final&show_owner=true&theme=aura)](https://github.com/curtarelli/qaa_kdpy_final)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=awesome-spectral-indices&show_owner=true&theme=aura)](https://github.com/curtarelli/awesome-spectral-indices)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=hydrobr&show_owner=true&theme=aura)](https://github.com/curtarelli/hydrobr)
 
-</ul>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-js&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-js)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=sits-giz&show_owner=true&theme=aura)](https://github.com/curtarelli/sits-giz) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=cutting_scenes&show_owner=true&theme=aura)](https://github.com/curtarelli/cutting_scenes)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=qaa_kdpy_final&show_owner=true&theme=aura)](https://github.com/curtarelli/qaa_kdpy_final)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=awesome-spectral-indices&show_owner=true&theme=aura)](https://github.com/curtarelli/awesome-spectral-indices)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=hydrobr&show_owner=true&theme=aura)](https://github.com/curtarelli/hydrobr)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=false)](https://github.com/curtarelli/github-readme-stats)
 
