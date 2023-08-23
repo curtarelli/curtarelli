@@ -1,5 +1,6 @@
 ### Hi there! My name is Victor Pedroso Curtarelli, I'm a Geospatial Data Science developer and Python enthusiast.
 
+##
 <h3>Main Experiences</h3>
 <ul>
 <li><em>Geoprocessing Technical Advisor at <a href="https://www.giz.de/en/">Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH</a></em> (October 2022 – Present).<br /></li>
@@ -8,7 +9,7 @@
 <li><em>Technological Researcher Development Scholarship at <a href="http://www.inpe.br/posgraduacao/">National Institute for Space Research</a></em> (March 2018 – June 2020).<br /></li>
 </ul>
 
-
+##
 <h3>Portfolio</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-python&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-python)
@@ -25,6 +26,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=hydrobr&show_owner=true&theme=aura)](https://github.com/curtarelli/hydrobr)
 
+##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=false)](https://github.com/curtarelli/github-readme-stats)
 
 ##
