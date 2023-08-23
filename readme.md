@@ -15,7 +15,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-python&theme=aura)](https://github.com/curtarelli/portfolio-python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=cutting_scenes&theme=aura)](https://github.com/curtarelli/portfolio-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=cutting_scenes&theme=aura)](https://github.com/curtarelli/cutting_scenes)
 
 </ul>
 </p>
