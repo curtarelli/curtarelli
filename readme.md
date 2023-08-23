@@ -8,8 +8,6 @@
 <li><em>Technological Researcher Development Scholarship at <a href="http://www.inpe.br/posgraduacao/">National Institute for Space Research</a></em> (March 2018 – June 2020).<br /></li>
 </ul>
 </p>
-  
-
 <h3>Portfolio</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-python&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-python)
