@@ -16,7 +16,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-js&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-js)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=sits-giz&show_owner=true&theme=aura)](https://github.com/curtarelli/sits-giz)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=sits-giz&show_owner=true&theme=aura)](https://github.com/curtarelli/sits-giz) -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=cutting_scenes&show_owner=true&theme=aura)](https://github.com/curtarelli/cutting_scenes)
 
