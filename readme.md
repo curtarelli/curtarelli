@@ -27,7 +27,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=hydrobr&show_owner=true&theme=aura)](https://github.com/curtarelli/hydrobr)
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=false)](https://github.com/curtarelli/github-readme-stats)
+<h3>GitHub Status</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=curtarelli&hide_title=true&include_all_commits=true&show_icons=true&theme=aura&rank_icon=github&hide_rank=false)](https://github.com/curtarelli/github-readme-stats)
 
 ##
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victorcurtarelli/)
