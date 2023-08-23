@@ -10,8 +10,7 @@
 </p>
   
 
-<h3>Portfolio Python</h3>
-<li><em><a href="https://github.com/curtarelli/portfolio-python">Access</a></em><br /></li>
+<h3>Portfolio</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-python&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-python)
 
