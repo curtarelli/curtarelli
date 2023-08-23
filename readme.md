@@ -14,7 +14,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-python&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=portfolio-js&show_owner=true&theme=aura)](https://github.com/curtarelli/portfolio-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=sits-giz&show_owner=true&theme=aura)](https://github.com/curtarelli/sits-giz)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=sits-giz&show_owner=true&theme=aura)](https://github.com/curtarelli/sits-giz) -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=cutting_scenes&show_owner=true&theme=aura)](https://github.com/curtarelli/cutting_scenes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=qaa_kdpy_final&show_owner=true&theme=aura)](https://github.com/curtarelli/qaa_kdpy_final)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=curtarelli&repo=awesome-spectral-indices&show_owner=true&theme=aura)](https://github.com/curtarelli/awesome-spectral-indices)
